@@ -76,6 +76,7 @@ nav li a {
 
 .left-half {
     max-width: 580px;
+    text-align: left;
 }
 .left-half h3{
     font-size: 45px;
